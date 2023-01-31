@@ -1,1 +1,1 @@
-# TUGASAKHIRPRAKDTI
+Di mulai dari penginisialan n sebagai banding ukuran dari huruf dan angka yang akan terbentuk dari "*", kemudian penginisialan for "i" digunakan untuk mengatur jangka menurun, kemudian pengunaan "j" Untuk kesamping membentuk huruf dan angka dan if yang berada pada for "j" Digunakan untuk membentuk "*" Menjadi bentukan huruf dan angka 
